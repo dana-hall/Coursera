@@ -1,0 +1,5 @@
+INDEX VERSION 1.126+/Users/dhall/Programming/Android/Coursera/Programming Mobile Applications for Android Handheld Systems/Week 1/.metadata/.plugins/org.eclipse.jdt.core
+2967363820.index
+3616326343.index
+2815133208.index
+1260707078.index
