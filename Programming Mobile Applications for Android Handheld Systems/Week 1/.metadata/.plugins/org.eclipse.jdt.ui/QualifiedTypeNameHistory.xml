@@ -3,4 +3,8 @@
 <fullyQualifiedTypeName name="android.util.Log"/>
 <fullyQualifiedTypeName name="android.widget.TextView"/>
 <fullyQualifiedTypeName name="android.content.Context"/>
+<fullyQualifiedTypeName name="course.labs.intentslab.ActivityLoaderActivity"/>
+<fullyQualifiedTypeName name="course.labs.intentslab.ExplicitlyLoadedActivity"/>
+<fullyQualifiedTypeName name="course.labs.dangerousapp.DangerousActivity"/>
+<fullyQualifiedTypeName name="android.app.FragmentManager"/>
 </qualifiedTypeNameHistroy>
