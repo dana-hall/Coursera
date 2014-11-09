@@ -7,4 +7,8 @@
 <fullyQualifiedTypeName name="course.labs.intentslab.ExplicitlyLoadedActivity"/>
 <fullyQualifiedTypeName name="course.labs.dangerousapp.DangerousActivity"/>
 <fullyQualifiedTypeName name="android.app.FragmentManager"/>
+<fullyQualifiedTypeName name="course.labs.todomanager.ToDoItem"/>
+<fullyQualifiedTypeName name="course.labs.todomanager.ToDoItem.Status"/>
+<fullyQualifiedTypeName name="android.view.LayoutInflater"/>
+<fullyQualifiedTypeName name="android.app.Activity"/>
 </qualifiedTypeNameHistroy>
