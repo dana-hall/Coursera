@@ -5,6 +5,7 @@
 	<item value="392" key="org.eclipse.jdt.uicleanup_pagemodify_dialog.preferred_x"/>
 	<item value="-1" key="org.eclipse.jdt.uiformatter_page.modify_dialog_tab_page.last_focus_index"/>
 	<item value="739" key="org.eclipse.jdt.uicleanup_pagemodify_dialog.preferred_height"/>
+	<item value="filter_imports;" key="filters_last_used"/>
 	<item value="0" key="org.eclipse.jdt.uicleanup_pagemodify_dialog.last_focus"/>
 	<item value="480,442" key="UserLibraryLoadSaveDialog.size"/>
 	<section name="ProblemSeveritiesConfigurationBlock">
@@ -33,7 +34,7 @@
 		<item value="2" key="index"/>
 	</section>
 	<section name="BuildPathsPropertyPage">
-		<item value="1" key="pageIndex"/>
+		<item value="0" key="pageIndex"/>
 	</section>
 	<section name="quick_assist_proposal_size">
 	</section>

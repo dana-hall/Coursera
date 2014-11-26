@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="android.util.Log"/>
 <fullyQualifiedTypeName name="android.content.Context"/>
 <fullyQualifiedTypeName name="course.labs.intentslab.ActivityLoaderActivity"/>
 <fullyQualifiedTypeName name="course.labs.intentslab.ExplicitlyLoadedActivity"/>
@@ -12,4 +11,6 @@
 <fullyQualifiedTypeName name="android.view.LayoutInflater"/>
 <fullyQualifiedTypeName name="android.widget.TextView"/>
 <fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="android.util.Log"/>
+<fullyQualifiedTypeName name="android.content.ContentResolver"/>
 </qualifiedTypeNameHistroy>

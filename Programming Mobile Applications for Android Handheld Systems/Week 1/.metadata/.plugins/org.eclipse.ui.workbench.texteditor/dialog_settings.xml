@@ -2,19 +2,20 @@
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="false" key="isRegEx"/>
-		<item value="age" key="selection"/>
+		<item value="There is no" key="selection"/>
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
+			<item value="there is no"/>
+			<item value="super"/>
+			<item value="CONTENT_URI"/>
+			<item value="BADGES_TABLE_NAME"/>
+			<item value="swap"/>
+			<item value="mPlaceRecords"/>
+			<item value="todo"/>
 			<item value="age"/>
-			<item value="MINE"/>
-			<item value="mpainter"/>
-			<item value="itemLayout"/>
-			<item value="todoitem"/>
-			<item value="onCreate"/>
-			<item value="displayCounts"/>
 		</list>
 		<list key="replacehistory">
 		</list>
@@ -23,7 +24,7 @@
 		<item value="263" key="DIALOG_WIDTH"/>
 		<item value="1|Lucida Grande|11.0|0|COCOA|1|LucidaGrande" key="DIALOG_FONT_NAME"/>
 		<item value="399" key="DIALOG_HEIGHT"/>
-		<item value="799" key="DIALOG_X_ORIGIN"/>
-		<item value="154" key="DIALOG_Y_ORIGIN"/>
+		<item value="57" key="DIALOG_X_ORIGIN"/>
+		<item value="177" key="DIALOG_Y_ORIGIN"/>
 	</section>
 </section>
